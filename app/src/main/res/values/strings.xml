@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ReiviewMidterm</string>
+    <string name="title_signin">SIGN IN</string>
+    <string name="title_login_username">Username:</string>
+    <string name="title_login_password">Password:</string>
+    <string name="title_login_button">SIGN IN</string>
+    <string name="title_add_new_product">Add New Product</string>
+    <string name="title_about">About</string>
+    <string name="txt_about">About</string>
+    <string name="title_student_id">Student ID:</string>
+    <string name="title_student_name">Student Name:</string>
+    <string name="title_student_email">Email:</string>
+    <string name="title_student_class">Class Name</string>
+    <string name="txt_student_id">K224111443</string>
+    <string name="txt_student_name">Bùi Thị Ngọc Châu</string>
+    <string name="txt_student_email">chaubtn22411c@st.uel.edu.vn</string>
+    <string name="txt_class_name">K22411C</string>
+    <string name="title_product_detail">Product Detail</string>
+    <string name="title_product_id">Product ID:</string>
+    <string name="title_product_code">Product Code:</string>
+    <string name="title_product_name">Product Name:</string>
+    <string name="title_product_unit_price">Product Unit Price:</string>
+    <string name="title_save">Save</string>
+    <string name="title_close">Close</string>
+</resources>
